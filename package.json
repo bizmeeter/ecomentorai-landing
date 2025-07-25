@@ -1,6 +1,10 @@
 {
   "name": "ecomentor-admin-basic",
   "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
